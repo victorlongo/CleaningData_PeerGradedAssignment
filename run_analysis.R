@@ -95,5 +95,6 @@ averages <- summarise(grouped_data,
 averages <- as.data.frame(arrange(averages, activity, subjectID))
 write.table(totaldata, "./UCI HAR Dataset/totaldata.txt", row.names = FALSE)
 write.table(averages, "./UCI HAR Dataset/averages.txt", row.names = FALSE)
-print("Two files were written in the directory UCI HAR Dataset in your working directory: 'totaldata.txt' is a dataset with the training and test sets and 'averages.txt' is a data set with the average of each variable for each activity and each subject. Also, two homonimous variables containing the data sets were created")
+print("Two files were written in the directory UCI HAR Dataset in your working directory: 'totaldata.txt' is a dataset with the training and test sets and 'averages.txt' is a data set with the average of each variable for each activity and each subject. Also, two homonimous variables containing the data sets were created. You will be prompted to view the complete averages dataset")
+View(averages)
 }
