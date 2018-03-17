@@ -337,32 +337,32 @@ ANGULAR VELOCITY FFT RAW SIGNALS (FFT)
 
     AngularVelocMeanXFreq: 
     
-      [,55] mean of the angular velocity raw signals, axe X, after FFT
+      mean of the angular velocity raw signals, axe X, after FFT
       
 
     AngularVelocMeanYFreq: 
     
-      [,56] mean of the angular velocity raw signals, axe Y, after FFT
+      mean of the angular velocity raw signals, axe Y, after FFT
       
 
     AngularVelocMeanZFreq: 
     
-      [,57] mean of the angular velocity raw signals, axe Z, after FFT
+      mean of the angular velocity raw signals, axe Z, after FFT
       
 
     AngularVelocStDevXFreq: 
     
-      [,58] standard deviation of the angular velocity raw signals, axe X, after FFT
+      standard deviation of the angular velocity raw signals, axe X, after FFT
       
 
     AngularVelocStDevYFreq: 
     
-      [,59] standard deviation of the angular velocity raw signals, axe Y, after FFT
+      standard deviation of the angular velocity raw signals, axe Y, after FFT
       
 
     AngularVelocStDevZFreq: 
     
-      [,60] standard deviation of the angular velocity raw signals, axe Z, after FFT
+      standard deviation of the angular velocity raw signals, axe Z, after FFT
       
 
 MAGNITUDE OF THE RAW AND JERK 3-AXIAL SIGNALS (FFT)
